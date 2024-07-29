@@ -21,6 +21,9 @@ Vue.component("blank_component_1722246832", {
 
                     <h1 class="text-4xl font-bold mb-8 text-center text-purple-600 dark:text-white">Sarthak Rastogi</h1>
 
+                    <p class="text-lg text-gray-700 dark:text-gray-300 mb-8 px-4 text-center">
+                        Large Language Models (LLMs) are advanced AI systems trained on vast amounts of text data. They use deep learning techniques to understand and generate human-like text. LLMs process input by breaking it down into tokens, analyzing patterns, and predicting the most likely next words or responses based on their training. This allows them to perform tasks like translation, summarization, and answering questions with remarkable fluency and contextual understanding.
+                    </p>
 
                 </div>
             </section>  
