@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the heading 'sarthak rastogi' to be capitalized, or should it remain in lowercase?\", \"option1\": \"Capitalize it\", \"option2\": \"Keep it lowercase\"}, {\"question 2\": \"Should the updated heading 'sarthak rastogi' also include any specific style changes, such as font size or color adjustments?\", \"option1\": \"Yes, adjust the style too\", \"option2\": \"No, just update the text\"}], \"input_token_count\": 318, \"output_token_count\": 113, \"time_taken\": \"0:00:07.083669\"}",
         "timestamp": "29072024095619",
         "message_id": "guest29072024095611"
+    },
+    {
+        "role": "user",
+        "content": "okay now please add a paragraph about how llms work. below my name.",
+        "timestamp": "29072024095708",
+        "message_id": "guest29072024095708"
     }
 ]
