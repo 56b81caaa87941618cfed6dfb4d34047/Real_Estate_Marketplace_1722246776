@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722246777",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "can you add a heading here that says 'sarthak\"",
-        "timestamp": "29072024095423",
-        "message_id": "guest29072024095423"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Definitely, I will add a heading saying 'Sarthak'.",
-        "timestamp": "29072024095424",
-        "message_id": "guest29072024095423"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically would you like the heading 'Sarthak' to be placed on the app page?\", \"option1\": \"At the top of the homepage\", \"option2\": \"Above house listings\"}, {\"question 2\": \"Would you like the heading 'Sarthak' to have any specific font style or size?\", \"option1\": \"Yes, a specific font style and size\", \"option2\": \"No, the default style and size is fine\"}], \"input_token_count\": 263, \"output_token_count\": 109, \"time_taken\": \"0:00:10.199477\"}",
-        "timestamp": "29072024095434",
-        "message_id": "guest29072024095423"
-    },
-    {
         "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a personalized welcome message for users called 'Welcome, Sarthak!'\", \"checked\": true}, {\"feature\": \"Incorporate a dynamic date and time display beneath the heading 'Sarthak' to show the current date and time\", \"checked\": false}, {\"feature\": \"Implement a user profile icon next to the heading 'Sarthak' for quick access to user settings\", \"checked\": true}, {\"feature\": \"Add a notification bell icon near the heading 'Sarthak' to alert users about new messages or updates\", \"checked\": false}, {\"feature\": \"Include a search bar below the heading 'Sarthak' for users to quickly find specific properties\", \"checked\": true}], \"input_token_count\": 217, \"output_token_count\": 160, \"time_taken\": \"0:00:12.252132\"}",
-        "timestamp": "29072024095436",
-        "message_id": "guest29072024095423"
-    },
-    {
-        "role": "user",
-        "content": "bro no change that to 'sarthak rastogi'",
-        "timestamp": "29072024095612",
-        "message_id": "guest29072024095611"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I understand, will update the name to 'Sarthak Rastogi'.",
-        "timestamp": "29072024095612",
-        "message_id": "guest29072024095611"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add dynamic breadcrumbs for better navigation\", \"checked\": false}, {\"feature\": \"Implement auto-correct for text inputs\", \"checked\": true}, {\"feature\": \"Add tooltips for important information fields\", \"checked\": false}, {\"feature\": \"Implement responsive headings for different screen sizes\", \"checked\": true}, {\"feature\": \"Enable customizable font sizes for user accessibility\", \"checked\": false}, {\"feature\": \"Offer theme options for personalized app appearance\", \"checked\": false}], \"input_token_count\": 272, \"output_token_count\": 101, \"time_taken\": \"0:00:06.486329\"}",
-        "timestamp": "29072024095619",
-        "message_id": "guest29072024095611"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the heading 'sarthak rastogi' to be capitalized, or should it remain in lowercase?\", \"option1\": \"Capitalize it\", \"option2\": \"Keep it lowercase\"}, {\"question 2\": \"Should the updated heading 'sarthak rastogi' also include any specific style changes, such as font size or color adjustments?\", \"option1\": \"Yes, adjust the style too\", \"option2\": \"No, just update the text\"}], \"input_token_count\": 318, \"output_token_count\": 113, \"time_taken\": \"0:00:07.083669\"}",
-        "timestamp": "29072024095619",
-        "message_id": "guest29072024095611"
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Personalized welcome message for users with their names\", \"checked\": true}, {\"feature\": \"Informational tooltips on key terms and features\", \"checked\": false}, {\"feature\": \"User profile section with editable personal information\", \"checked\": true}, {\"feature\": \"Dynamic FAQ section related to houses and real estate transactions\", \"checked\": false}, {\"feature\": \"Customizable user dashboard with recent activity and recommendations\", \"checked\": true}, {\"feature\": \"Interactive chat support for instant assistance\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 122, \"time_taken\": \"0:00:05.521831\"}",
+        "message_id": "guest29072024095708",
+        "timestamp": "29072024095714",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "okay now please add a paragraph about how llms work. below my name.",
+        "message_id": "guest29072024095708",
         "timestamp": "29072024095708",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the heading 'sarthak rastogi' to be capitalized, or should it remain in lowercase?\", \"option1\": \"Capitalize it\", \"option2\": \"Keep it lowercase\"}, {\"question 2\": \"Should the updated heading 'sarthak rastogi' also include any specific style changes, such as font size or color adjustments?\", \"option1\": \"Yes, adjust the style too\", \"option2\": \"No, just update the text\"}], \"input_token_count\": 318, \"output_token_count\": 113, \"time_taken\": \"0:00:07.083669\"}",
+        "message_id": "guest29072024095611",
+        "timestamp": "29072024095619",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add dynamic breadcrumbs for better navigation\", \"checked\": false}, {\"feature\": \"Implement auto-correct for text inputs\", \"checked\": true}, {\"feature\": \"Add tooltips for important information fields\", \"checked\": false}, {\"feature\": \"Implement responsive headings for different screen sizes\", \"checked\": true}, {\"feature\": \"Enable customizable font sizes for user accessibility\", \"checked\": false}, {\"feature\": \"Offer theme options for personalized app appearance\", \"checked\": false}], \"input_token_count\": 272, \"output_token_count\": 101, \"time_taken\": \"0:00:06.486329\"}",
+        "message_id": "guest29072024095611",
+        "timestamp": "29072024095619",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I understand, will update the name to 'Sarthak Rastogi'.",
+        "message_id": "guest29072024095611",
+        "timestamp": "29072024095612",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "bro no change that to 'sarthak rastogi'",
+        "message_id": "guest29072024095611",
+        "timestamp": "29072024095612",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a personalized welcome message for users called 'Welcome, Sarthak!'\", \"checked\": true}, {\"feature\": \"Incorporate a dynamic date and time display beneath the heading 'Sarthak' to show the current date and time\", \"checked\": false}, {\"feature\": \"Implement a user profile icon next to the heading 'Sarthak' for quick access to user settings\", \"checked\": true}, {\"feature\": \"Add a notification bell icon near the heading 'Sarthak' to alert users about new messages or updates\", \"checked\": false}, {\"feature\": \"Include a search bar below the heading 'Sarthak' for users to quickly find specific properties\", \"checked\": true}], \"input_token_count\": 217, \"output_token_count\": 160, \"time_taken\": \"0:00:12.252132\"}",
+        "message_id": "guest29072024095423",
+        "timestamp": "29072024095436",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically would you like the heading 'Sarthak' to be placed on the app page?\", \"option1\": \"At the top of the homepage\", \"option2\": \"Above house listings\"}, {\"question 2\": \"Would you like the heading 'Sarthak' to have any specific font style or size?\", \"option1\": \"Yes, a specific font style and size\", \"option2\": \"No, the default style and size is fine\"}], \"input_token_count\": 263, \"output_token_count\": 109, \"time_taken\": \"0:00:10.199477\"}",
+        "message_id": "guest29072024095423",
+        "timestamp": "29072024095434",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Definitely, I will add a heading saying 'Sarthak'.",
+        "message_id": "guest29072024095423",
+        "timestamp": "29072024095424",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "can you add a heading here that says 'sarthak\"",
+        "message_id": "guest29072024095423",
+        "timestamp": "29072024095423",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "29072024095714",
         "message_id": "guest29072024095708"
     }
 ]
