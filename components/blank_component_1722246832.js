@@ -19,7 +19,7 @@ Vue.component("blank_component_1722246832", {
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
 
-                    <h1 class="text-4xl font-bold mb-8 text-center text-purple-600 dark:text-white">Sarthak</h1>
+                    <h1 class="text-4xl font-bold mb-8 text-center text-purple-600 dark:text-white">Sarthak Rastogi</h1>
 
 
                 </div>
