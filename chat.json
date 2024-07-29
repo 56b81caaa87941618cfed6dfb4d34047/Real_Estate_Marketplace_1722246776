@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically would you like the heading 'Sarthak' to be placed on the app page?\", \"option1\": \"At the top of the homepage\", \"option2\": \"Above house listings\"}, {\"question 2\": \"Would you like the heading 'Sarthak' to have any specific font style or size?\", \"option1\": \"Yes, a specific font style and size\", \"option2\": \"No, the default style and size is fine\"}], \"input_token_count\": 263, \"output_token_count\": 109, \"time_taken\": \"0:00:10.199477\"}",
+        "message_id": "guest29072024095423",
+        "timestamp": "29072024095434",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Definitely, I will add a heading saying 'Sarthak'.",
         "message_id": "guest29072024095423",
