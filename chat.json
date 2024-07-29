@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify where exactly you'd like the paragraph about LLMS to be placed in relation to your name? For example, immediately after your name on the same page, or if there should be a specific section designated for it.\", \"option1\": \"Immediately after my name on the same page.\", \"option2\": \"In a specific section designated for it.\"}, {\"question 2\": \"Would you like to provide the text for the paragraph about LLMS yourself, or would you prefer we draft it for you based on a general idea or information you provide?\", \"option1\": \"I will provide the text myself.\", \"option2\": \"Please draft it for me based on the information I provide.\"}], \"input_token_count\": 266, \"output_token_count\": 157, \"time_taken\": \"0:00:12.976648\"}",
+        "message_id": "guest29072024095708",
+        "timestamp": "29072024095722",
+        "component_file_name": "blank_component_1722246832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Personalized welcome message for users with their names\", \"checked\": true}, {\"feature\": \"Informational tooltips on key terms and features\", \"checked\": false}, {\"feature\": \"User profile section with editable personal information\", \"checked\": true}, {\"feature\": \"Dynamic FAQ section related to houses and real estate transactions\", \"checked\": false}, {\"feature\": \"Customizable user dashboard with recent activity and recommendations\", \"checked\": true}, {\"feature\": \"Interactive chat support for instant assistance\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 122, \"time_taken\": \"0:00:05.521831\"}",
         "message_id": "guest29072024095708",
