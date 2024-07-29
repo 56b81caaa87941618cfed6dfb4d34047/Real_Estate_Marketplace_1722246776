@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically would you like the heading 'Sarthak' to be placed on the app page?\", \"option1\": \"At the top of the homepage\", \"option2\": \"Above house listings\"}, {\"question 2\": \"Would you like the heading 'Sarthak' to have any specific font style or size?\", \"option1\": \"Yes, a specific font style and size\", \"option2\": \"No, the default style and size is fine\"}], \"input_token_count\": 263, \"output_token_count\": 109, \"time_taken\": \"0:00:10.199477\"}",
         "timestamp": "29072024095434",
         "message_id": "guest29072024095423"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a personalized welcome message for users called 'Welcome, Sarthak!'\", \"checked\": true}, {\"feature\": \"Incorporate a dynamic date and time display beneath the heading 'Sarthak' to show the current date and time\", \"checked\": false}, {\"feature\": \"Implement a user profile icon next to the heading 'Sarthak' for quick access to user settings\", \"checked\": true}, {\"feature\": \"Add a notification bell icon near the heading 'Sarthak' to alert users about new messages or updates\", \"checked\": false}, {\"feature\": \"Include a search bar below the heading 'Sarthak' for users to quickly find specific properties\", \"checked\": true}], \"input_token_count\": 217, \"output_token_count\": 160, \"time_taken\": \"0:00:12.252132\"}",
+        "timestamp": "29072024095436",
+        "message_id": "guest29072024095423"
     }
 ]
